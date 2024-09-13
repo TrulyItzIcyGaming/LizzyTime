@@ -1,0 +1,21 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8ff; /* light blue color */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#time-since {
+  font-size: 24px;
+  color: #ff69b4; /* pink color */
+  background-color: #fff;
+  border: 2px solid #ff69b4; /* pink color */
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: fit-content;
+  margin-left: 10px;
+  margin-right: 10px;
+}
